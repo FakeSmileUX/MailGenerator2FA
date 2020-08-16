@@ -7,6 +7,8 @@ ___________________
 🔸You can use without Api Key but  you should solve 2Captcha for this...
 
 🔸Software created bt FakeSmile
+
+🔸ProtonMail and MicrosoftMail choises will come on Version 1.1
 ___________________
 🔴What you can do with this?🔴
 ___________________
