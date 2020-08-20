@@ -2311,9 +2311,9 @@ else:
 
 print("""
 
-EDU Account Creator
+Edu Accaount Generator
 
-by Exploit forked and fixed by FakeSmile\n"""
+by Exploit Created and Fixed by FakeSmile\n"""
       )
 
 
